@@ -1,21 +1,22 @@
-# mpvExtended for Android: English Learning Setup
+# Android : mpvExtended for Android: English Learning Setup
 
 mpvExtended / mpv NAS Player 向けの英語学習用設定です。
 
 ## スクリーンショット
+### 横画面
 <img src="screenshots/landscape_view.png" width="800">
 
-
+### 縦画面
 <img src="screenshots/portrait_view.png" width="300">
 
 
 
 ## mpvExtended準備
 
-mpvExtendedは、以下からダウンロードしてインストール
+mpvExtendedは、以下からダウンロードしてインストール  
 https://github.com/marlboro-advance/mpvEx/releases
 
-arm64-v8a: 最新の64bit ARMデバイス（ほとんどのユーザーに推奨）
+arm64-v8a: 最新の64bit ARMデバイス（ほとんどのユーザーに推奨）  
 universal: すべてのデバイスで動作（ファイルサイズは大きめ）
 
 ### mpvExtendedのおすすめ設定
@@ -69,7 +70,6 @@ mpvExtendedのmpv.conf編集画面に、同梱の `mpv.conf` の内容を貼り�
 script=/sdcard/Android/media/app.marlboroadvance.mpvex/english-subs-android.lua
 ```
 
-この版では `script-opts=` は不要です。
 
 ## Lua冒頭の設定
 

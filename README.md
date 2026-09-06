@@ -1,19 +1,21 @@
-# mpvExtended English Learning Pack
+# Android : mpvExtended English Learning Pack
 
 English-learning setup for mpvExtended / mpv NAS Player.
 
 ## Screenshots
+### Landscape mode
 <img src="screenshots/landscape_view.png" width="800">
 
+### Portrait mode
 <img src="screenshots/portrait_view.png" width="400">
 
 
 ## Preparing mpvExtended
 
-Download and install mpvExtended from the link below:
+Download and install mpvExtended from the link below:  
 https://github.com/marlboro-advance/mpvEx/releases
 
-arm64-v8a: Modern 64-bit ARM devices (recommended for most users)
+arm64-v8a: Modern 64-bit ARM devices (recommended for most users)  
 universal: Works on all devices (larger size)
 
 
